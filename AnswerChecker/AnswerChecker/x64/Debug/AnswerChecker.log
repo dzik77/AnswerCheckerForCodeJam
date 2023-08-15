@@ -1,0 +1,11 @@
+﻿  AnswerChecker.cpp
+C:\Users\xavie\Dev\AnswerChecker\AnswerChecker\AnswerChecker.h(25,16): warning C4251: 'AnswerChecker::InputFile': class 'std::basic_ifstream<char,std::char_traits<char>>' needs to have dll-interface to be used by clients of class 'AnswerChecker'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\iosfwd(245,35): message : see declaration of 'std::basic_ifstream<char,std::char_traits<char>>'
+C:\Users\xavie\Dev\AnswerChecker\AnswerChecker\AnswerChecker.h(26,16): warning C4251: 'AnswerChecker::AnswerFile': class 'std::basic_ifstream<char,std::char_traits<char>>' needs to have dll-interface to be used by clients of class 'AnswerChecker'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\iosfwd(245,35): message : see declaration of 'std::basic_ifstream<char,std::char_traits<char>>'
+C:\Users\xavie\Dev\AnswerChecker\AnswerChecker\AnswerChecker.h(27,14): warning C4251: 'AnswerChecker::InputFileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'AnswerChecker'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xstring(5155,29): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\xavie\Dev\AnswerChecker\AnswerChecker\AnswerChecker.h(28,14): warning C4251: 'AnswerChecker::AnswerFileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'AnswerChecker'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xstring(5155,29): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+     Creating library C:\Users\xavie\Dev\AnswerChecker\x64\Debug\AnswerChecker.lib and object C:\Users\xavie\Dev\AnswerChecker\x64\Debug\AnswerChecker.exp
+  AnswerChecker.vcxproj -> C:\Users\xavie\Dev\AnswerChecker\x64\Debug\AnswerChecker.dll
